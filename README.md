@@ -7,11 +7,11 @@ Następnie nada mu specjalne dane i przyjmie do realizacji.
 
 # 2.Funkcjonalnośći 
 Wybór produktów.
-Modyfikacja liczby oraz ilości produktów na zamówieniu.
-Przypisanie do zamówienia konkretnej listy produktów nadanie nr id oraz wycena.
+Modyfikacja liczby oraz ilości produktów dodawanych do zamówienia.
+Przypisanie do zamówienia produktów nadanie nr id oraz wycena.
 Przyjęcie do realizacji.
 
 # 3.Technologia
--Aplikacja kliencka (React.js)
+-Aplikacja kliencka (Angular)
 -WebApi (Asp .NET Core/Entity Framework)
 -Baza Danych(MSSQL Server)
