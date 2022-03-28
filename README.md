@@ -5,12 +5,13 @@ Głównym założeniem aplikacji jest ułatwienie obsługi klientów w barze szy
 Aplikacja będzie umożliwiała stworzenie zamówienia z różnych produktów o różnych ilościach.
 
 # 2.Funkcjonalnośći 
+Utworzenie zamówienia.
 Wybór produktów.
-Modyfikacja liczby oraz ilości produktów dodawanych do zamówienia.
-Przypisanie do zamówienia produktów nadanie nr id oraz wycena.
+Modyfikacja liczby produktów dodawanych do zamówienia.
+Skompletowanie zamówienia, nadanie nr id, wycena.
 Przyjęcie do realizacji.
 
 # 3.Technologia
--Aplikacja kliencka (Angular)
+-Aplikacja kliencka (React.js)
 -WebApi (Asp .NET Core/Entity Framework)
 -Baza Danych(MSSQL Server)
