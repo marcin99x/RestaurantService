@@ -12,6 +12,5 @@ Skompletowanie zamówienia, nadanie nr id, wycena.
 Przyjęcie do realizacji.
 
 # 3.Technologia
--Aplikacja kliencka (React.js)
--WebApi (Asp .NET Core/Entity Framework)
+=Asp .NET Core(MVC)Entity Framework
 -Baza Danych(MSSQL Server)
